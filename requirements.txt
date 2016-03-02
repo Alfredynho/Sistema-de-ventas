@@ -1,0 +1,4 @@
+Django==1.9.3
+psycopg2==2.6.1
+Unipath==1.1
+wheel==0.29.0
