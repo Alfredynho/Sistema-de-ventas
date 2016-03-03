@@ -21,6 +21,7 @@ THIRD_PARTY_APPS = (
 #aplicaciones locales
 LOCAL_APPS = (
     'apps.home',
+    'apps.usuarios',
 	)
 
 
@@ -41,7 +42,7 @@ ROOT_URLCONF = 'sistema.urls'
 
 WSGI_APPLICATION = 'sistema.wsgi.application'
 
-
+#comentario
 
 LANGUAGE_CODE = 'es-bo'
 
